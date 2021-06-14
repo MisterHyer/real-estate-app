@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-app';
+  name:string = 'Dave';
+
+  constructor(){
+    this.changeName('Mr Hyer');
+  }
+
+  changeName(name:string):void {
+    this.name = name;
+  }
 }
