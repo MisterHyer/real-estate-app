@@ -1,0 +1,207 @@
+{
+    "looks": [
+        {
+            "id": 1,
+            "name": "Elements",
+            "price": 0,
+            "colors": [
+                "White",
+                "Beige",
+                "Grey"
+            ],
+            "categoryGroups": [
+                {
+                    "categories": [
+                        {
+                            "name": "Whole House",
+                            "options": [
+                                {
+                                    "name": "Trim"
+                                },
+                                {
+                                    "name": "Doors"
+                                },
+                                {
+                                    "name": "Door Hardware"
+                                },
+                                {
+                                    "name": "Stairs"
+                                },
+                                {
+                                    "name": "Windows"
+                                },
+                                {
+                                    "name": "Electric"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "categories": [
+                        {
+                            "name": "Bedroom",
+                            "options": [
+                                {
+                                    "name": "Ceiling Fan"
+                                },
+                                {
+                                    "name": "Lighting"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "categories": [
+                        {
+                            "name": "Kitchen",
+                            "options": [
+                                {
+                                    "name": "Appliances"
+                                },
+                                {
+                                    "name": "Cabinets"
+                                },
+                                {
+                                    "name": "Backsplash"
+                                },
+                                {
+                                    "name": "Countertop"
+                                },
+                                {
+                                    "name": "Sink"
+                                },
+                                {
+                                    "name": "Faucet"
+                                },
+                                {
+                                    "name": "Lighting"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Farmhouse",
+            "price": 7500,
+            "colors": [
+                "White",
+                "Beige",
+                "Grey"
+            ],
+            "categoryGroups": [
+                {
+                    "categories": [
+                        {
+                            "name": "Whole House",
+                            "options": [
+                                {
+                                    "name": "Trim"
+                                },
+                                {
+                                    "name": "Doors"
+                                },
+                                {
+                                    "name": "Door Hardware"
+                                },
+                                {
+                                    "name": "Stairs"
+                                },
+                                {
+                                    "name": "Windows"
+                                },
+                                {
+                                    "name": "Electric"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "categories": [
+                        {
+                            "name": "Bedroom",
+                            "options": [
+                                {
+                                    "name": "Ceiling Fan"
+                                },
+                                {
+                                    "name": "Lighting"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name":"Kitchen",
+                    "categories": [
+                        {
+                            "name": "Kitchen",
+                            "options": [
+                                {
+                                    "name": "Appliances"
+                                },
+                                {
+                                    "name": "Cabinets"
+                                },
+                                {
+                                    "name": "Backsplash"
+                                },
+                                {
+                                    "name": "Countertop"
+                                },
+                                {
+                                    "name": "Sink"
+                                },
+                                {
+                                    "name": "Faucet"
+                                },
+                                {
+                                    "name": "Lighting"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Kitchen Plus",
+                            "price": 2500,
+                            "colors": [
+                                "White",
+                                "Beige",
+                                "Grey",
+                                "Premium White"
+                            ],
+                            "options": [
+                                {
+                                    "name": "Appliances"
+                                },
+                                {
+                                    "name": "Cabinets"
+                                },
+                                {
+                                    "name": "Backsplash"
+                                },
+                                {
+                                    "name": "Countertop"
+                                },
+                                {
+                                    "name": "Sink"
+                                },
+                                {
+                                    "name": "Faucet"
+                                },
+                                {
+                                    "name": "Lighting"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "lots": []
+}
